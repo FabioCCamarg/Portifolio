@@ -1,0 +1,13 @@
+footer {
+  position:absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.social-links a {
+  transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+  color: #17a2b8; /* Cor azul de destaque ao passar o mouse */
+}
