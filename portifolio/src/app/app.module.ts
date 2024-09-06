@@ -10,6 +10,7 @@ import { AboutComponent } from './about/about.component';
 import { ProjectsComponent } from './projects/projects.component';
 import { HeroComponent } from './hero/hero.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { ContentComponent } from './content/content.component';
 
 
 @NgModule({
@@ -20,6 +21,7 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
     AboutComponent,
     ProjectsComponent,
     HeroComponent,
+    ContentComponent,
 
 
   ],
